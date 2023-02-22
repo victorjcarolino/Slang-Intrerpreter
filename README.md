@@ -1,3 +1,5 @@
 # Slang-Intrerpreter
 
 As part of my CSE 262: Programming Languages course at Lehigh University, I, along with my teammate, created a fully functional interpreter for a Scheme functional programming language subset that we called Slang. The only difference between Slang and Scheme is that Slang does not support some syntactic sugar expressions from Scheme such as let, let*, and letrec.
+
+Each subproject (4 in total) has its own README that details the specifications that the interpreter was designed for, and each subproject folder will contain a Scheme, Java, and Python folder. The Scheme folders are programming assignments that me and my teammate had to complete to gain a better understanding of the functional programming language paradigms. The Java and Python folders contain the code written for the interpreter. The Java code also contains some starter-code provided by our instructor. The Python folders however, had no starter code and were completely developed by myself and my teammate.
