@@ -1,0 +1,18 @@
+<Apply>
+ <Identifier val='-' />
+ <Int val='1' />
+ <Int val='2' />
+</Apply>
+
+
+ <Identifier val='pi' />
+
+ <Identifier val='e' />
+
+ <Identifier val='tau' />
+
+ <Identifier val='inf+' />
+
+ <Identifier val='inf-' />
+
+ <Identifier val='nan' />
