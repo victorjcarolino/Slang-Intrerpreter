@@ -8,7 +8,7 @@ Project 1 was meant to introduce us to the concept of functional programming and
 
 I will now present short exerpts from each of the programming project's REAMDME's as to give the viewer (you) an easier time understanding the scope of this project without having to traverse the repository if you would not like to.
 
-#CSE 262: Programming Assignment 2: Scanning "slang"
+# CSE 262: Programming Assignment 2: Scanning "slang"
 
 In the remaining three assignments of the semester, we will be building a full
 interpreter for a relatively complete subset of the Scheme programming language.
